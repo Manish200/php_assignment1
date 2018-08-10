@@ -1,0 +1,13 @@
+
+html,body{
+    padding: 30px;;
+background:#37474F;
+
+}
+#contact-head{
+  font-size: 65px;
+  font-style: italic;
+  font-family: serif;
+  color: #2962FF;;
+  margin-top: 60px;
+}
